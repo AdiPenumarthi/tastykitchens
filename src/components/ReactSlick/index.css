@@ -1,0 +1,19 @@
+.slider-container {
+  width: 100%;
+  height: 350px;
+}
+
+.offers-container {
+  width: 100%;
+  height: 300px;
+}
+
+.offer-card {
+  width: 100%;
+  height: 350px;
+}
+
+.offer-image {
+  width: 95%;
+  height: 320px;
+}
